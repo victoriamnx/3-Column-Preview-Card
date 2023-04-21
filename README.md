@@ -11,10 +11,12 @@ This is a solution to the [https://www.frontendmentor.io/challenges/3column-prev
 
 # Result
 
+![Screenshot 2023-04-21 193433](https://user-images.githubusercontent.com/96449803/233744326-c4e4254d-a464-4871-93cc-bd210fa83546.png)
+
 # Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub]
+- Live Site URL: [https://3-column-preview-card-pied.vercel.app/]
 
 # Built with
 
